@@ -1,0 +1,23 @@
+html {
+	background-color: lightpink;
+	color: red;
+
+}
+
+p {
+	background-color: cornsilk;
+	border: 3px solid aquamarine;
+	border-style: dotted dashed;
+	border-radius: 25px;
+	padding: 30px;
+}
+
+a {
+	color: purple;
+}
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
